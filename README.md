@@ -1,0 +1,26 @@
+## Hi there 👋
+
+<!--
+**Monu-Yaduwanshi/Monu-Yaduwanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+👋 Hi, I'm Monu Yaduwanshi!
+
+I'm a dedicated Computer Science and Engineering student with expertise in:
+
+Java (Swing, AWT, Servlets)
+Data Structures & Algorithms (DSA)
+Frontend Web Development (HTML, CSS, JavaScript)
+Android Development (Jetpack Compose, MVVM)
+Databases (MySQL, Oracle Express Edition, Firebase)
+I love developing applications that integrate both web and mobile technologies to solve real-world challenges. Check out my projects and feel free to connect!
