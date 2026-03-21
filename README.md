@@ -112,15 +112,13 @@
 ## 🐍 Contribution Animations
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/It-s-Me-Monu-Yaduwanshi/It-s-Me-Monu-Yaduwanshi/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Monu-Yaduwanshi/Monu-Yaduwanshi/output/github-contribution-grid-snake.svg" />
 </p>
-
----
 
 ## 🎮 Pacman Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/It-s-Me-Monu-Yaduwanshi/It-s-Me-Monu-Yaduwanshi/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/Monu-Yaduwanshi/Monu-Yaduwanshi/output/pacman-contribution-graph.svg" />
 </p>
 
 ---
