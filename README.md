@@ -1,72 +1,147 @@
-<!-- Coding GIF -->
+<!-- HEADER BANNER -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150px">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007F50,100:00C9A7&height=200&section=header&text=Monu%20Yaduwanshi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- CODING GIF -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="140px">
 </p>
 
 <h1 align="center">Hi 👋, I'm Monu Yaduwanshi</h1>
-<h3 align="center">🚀 Android Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">🚀 Android Developer | AI Enthusiast | Problem Solver</h3>
 
 ---
 
-# ✨ Profile Summary
+## ✨ About Me
 
-🔹 Passionate **Android Developer** focused on real-world problem solving  
-🔹 Skilled in **Kotlin, Jetpack Compose, Firebase & MVVM Architecture**  
-🔹 Building scalable apps like **Raksha Setu & Jeevan Rakshak**  
-🔹 Interested in **AI-powered applications & smart automation systems**  
-🔹 Lifelong learner exploring modern technologies 🌍  
+🔹 Passionate **Android Developer** building real-world impactful apps
+🔹 Skilled in **Kotlin, Jetpack Compose, Firebase & MVVM Architecture**
+🔹 Exploring **AI-powered mobile applications**
+🔹 Love solving real-world problems through technology 🌍
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
 
-  <!-- Android -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50"/>
-  <img src="https://developer.android.com/images/jetpack/compose-tutorial/compose-logo.png" width="50"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,js,python" />
 
-  <!-- Backend -->
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,mysql,git,github" />
+
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-### 🛡️ Raksha Setu – Smart Society Visitor Management  
-- Visitor verification with photo capture 📸  
-- Real-time approval system (Allow / Deny / Leave at Gate)  
-- Firebase + Cloudinary integration  
-- Multi-role system (Resident, Watchman, Secretary)  
+### 🛡️ Raksha Setu – Smart Society Visitor Management
 
----
-
-### 🚑 Jeevan Rakshak – Emergency Assistance App  
-- One-tap SOS with live location 📍  
-- Ambulance & hospital tracking 🚑  
-- Generic medicine platform 💊  
-- Firebase + Maps integration  
+✔ Visitor photo verification system 📸
+✔ Real-time approval (Allow / Deny / Leave at Gate)
+✔ Multi-role system (Resident, Watchman, Secretary)
+✔ Firebase + Cloudinary integration
 
 ---
 
-### 🤖 Climate Impact Financial Predictor (AI Project)  
-- Predicts financial risks due to climate events 🌎  
-- Revenue loss & operational disruption forecasting 📉  
-- Insurance claim prediction & cost estimation 🏦  
-- Built using **TensorFlow Lite + Jetpack Compose**  
-- Runs efficiently on mobile devices ⚡  
+### 🚑 Jeevan Rakshak – Emergency Assistance App
+
+✔ One-tap SOS with live location 📍
+✔ Ambulance & hospital tracking 🚑
+✔ Generic medicine platform 💊
+✔ Firebase + Google Maps integration
 
 ---
 
-## 🐱 Developer Mode Activated  
+### 🤖 Climate Impact Financial Predictor (AI Project)
+
+✔ AI-powered climate risk forecasting 🌎
+✔ Revenue loss & disruption prediction 📉
+✔ Insurance & cost estimation 🏦
+✔ Built with **TensorFlow Lite + Jetpack Compose**
+✔ Runs efficiently on mobile devices ⚡
+
+---
+
+## 🐱 Developer Mode
 
 ```bash
   /\_/\  
- ( o.o )  > Building Apps... Fixing Bugs... Learning Always 🚀
+ ( o.o )  > Building Apps... Learning AI... Solving Problems 🚀
   > ^ <
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Monu-Yaduwanshi&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monu-Yaduwanshi&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monu-Yaduwanshi&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Monu-Yaduwanshi/Monu-Yaduwanshi/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://monuyaduwanshiportfolio.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Monu-Yaduwanshi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:Monuyaduvanshi2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Developer Zone
+
+🚀 Building **real-world Android apps**
+📱 Exploring **Jetpack Compose & scalable architectures**
+🤖 Integrating **AI into mobile applications**
+🔥 Focused on **performance, UI & user experience**
+
+---
+
+## 🎯 Current Goals
+
+✔ Master **Advanced Android Architecture (Clean Architecture)**
+✔ Build **AI-powered mobile apps**
+✔ Create **production-level projects**
+✔ Crack top product-based companies 💼
+
+---
+
+<p align="center">
+  ❤️ Made with passion for technology & innovation
+</p>
+
+<!-- FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:007F50&height=120&section=footer"/>
+</p>
