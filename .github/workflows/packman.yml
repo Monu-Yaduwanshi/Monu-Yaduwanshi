@@ -1,36 +1,30 @@
-name: Generate Pacman Animation
+name: Generate Pacman
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      # ✅ REQUIRED
-      - name: Checkout Repository
+      - name: Checkout Repo
         uses: actions/checkout@v4
 
-      # 🎮 Generate Pacman
-      - name: Generate pacman graph
+      - name: Generate Pacman
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Monu-Yaduwanshi
 
-      # 🚀 FIXED DEPLOY (NO deprecated action)
-      - name: Deploy to output branch
+      - name: Deploy Pacman
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
+          keep_files: true   # ✅ VERY IMPORTANT
