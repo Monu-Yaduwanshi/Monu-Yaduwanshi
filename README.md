@@ -1,13 +1,13 @@
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007F50,100:00C9A7&height=200&section=header&text=Monu%20Yaduwanshi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007F50,100:00C9A7&height=200&section=header&text=Monu%20Yaduwanshi&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- CODING GIF -->
+<h1 align="center">Hey 👋 What's Up?</h1>
 
 <p align="center">
- <!-- <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="140px"> -->
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="140px">
 </p>
 
 <h1 align="center">Hi 👋, I'm Monu Yaduwanshi</h1>
@@ -27,14 +27,26 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,kotlin,js,python" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase,mysql,git,github" />
-
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,python,ts,react,html,css" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,mysql,git,github" />
 </p>
+
+---
+
+## 🚀 Advanced Tech & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+  <img src="https://skillicons.dev/icons?i=graphql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=go" height="50"/>
+  <img src="https://skillicons.dev/icons?i=rust" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" height="50"/>
+  <img src="https://skillicons.dev/icons?i=py" height="50"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="50"/>
+</div>
 
 ---
 
@@ -82,7 +94,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Monu-Yaduwanshi&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monu-Yaduwanshi&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Monu-Yaduwanshi&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
@@ -91,30 +103,58 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Monu-Yaduwanshi/Monu-Yaduwanshi/output/snake.svg" alt="snake animation" />
+  <img src="https://github-profile-trophy.vercel.app?username=Monu-Yaduwanshi&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🐍 Contribution Animations
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Monu-Yaduwanshi/Monu-Yaduwanshi/output/snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" />
+</p>
+
+---
+
+## 🎮 Pacman Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://monuyaduwanshiportfolio.web.app" target="_blank">
+<div align="center">
+  <a href="https://monuyaduwanshiportfolio.web.app">
     <img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Monu-Yaduwanshi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="mailto:Monuyaduvanshi2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+</div>
+
+---
+
+## 📱 Social & Platforms
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&style=for-the-badge"/>
+</div>
 
 ---
 
@@ -129,7 +169,7 @@
 
 ## 🎯 Current Goals
 
-✔ Master **Advanced Android Architecture (Clean Architecture)**
+✔ Master **Advanced Android Architecture**
 ✔ Build **AI-powered mobile apps**
 ✔ Create **production-level projects**
 ✔ Crack top product-based companies 💼
