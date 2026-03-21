@@ -1,4 +1,4 @@
-name: Generate Snake + Pacman
+name: Generate Snake
 
 on:
   schedule:
@@ -13,31 +13,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout Repo
         uses: actions/checkout@v4
 
-      # 📁 Create dist folder safely
-      - name: Create dist folder
-        run: mkdir -p dist
-
-      # 🐍 Generate Snake
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Monu-Yaduwanshi
           outputs: dist/github-contribution-grid-snake.svg
 
-      # 🎮 Generate Pacman (FIXED PATH)
-      - name: Generate Pacman
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: Monu-Yaduwanshi
-          output_file: dist/pacman.svg
-
-      # 🚀 Deploy to output branch
-      - name: Deploy
+      - name: Deploy Snake
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
+          keep_files: true   # ✅ IMPORTANT
