@@ -40,12 +40,12 @@
   <img src="https://skillicons.dev/icons?i=ts" height="50"/>
   <img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
-  <img src="https://skillicons.dev/icons?i=graphql" height="50"/>
+  <!-- <img src="https://skillicons.dev/icons?i=graphql" height="50"/>
   <img src="https://skillicons.dev/icons?i=go" height="50"/>
   <img src="https://skillicons.dev/icons?i=rust" height="50"/>
   <img src="https://skillicons.dev/icons?i=nestjs" height="50"/>
   <img src="https://skillicons.dev/icons?i=py" height="50"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="50"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="50"/> -->
 </div>
 
 ---
