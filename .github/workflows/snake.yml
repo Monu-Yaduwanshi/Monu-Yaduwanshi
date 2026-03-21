@@ -1,0 +1,32 @@
+name: Generate Snake + Pacman
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake + Pacman
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Monu-Yaduwanshi
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/pacman-contribution-graph.svg
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
