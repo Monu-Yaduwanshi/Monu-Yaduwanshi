@@ -114,7 +114,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Monu-Yaduwanshi/Monu-Yaduwanshi/output/github-contribution-grid-snake.svg" />
 </p>
+## 🎮 Contribution Activity
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monu-Yaduwanshi&theme=tokyo-night&hide_border=true" />
+</p>
 ## 🎮 Pacman Contribution Graph
 
 <p align="center">
