@@ -16,14 +16,21 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake + Pacman
+      # 🐍 Snake
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Monu-Yaduwanshi
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/pacman-contribution-graph.svg
 
+      # 🎮 Pacman (REAL)
+      - name: Generate Pacman
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Monu-Yaduwanshi
+
+      # 🚀 Deploy
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
