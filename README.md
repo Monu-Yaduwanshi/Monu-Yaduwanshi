@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007F50,100:00C9A7&height=200&section=header&text=Monu%20Yaduwanshi&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <p align="center">
