@@ -126,7 +126,7 @@
 ## 🎮 Pacman Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Monu-Yaduwanshi/Monu-Yaduwanshi/output/pacman.svg" />
+  <img src="https://raw.githubusercontent.com/Monu-Yaduwanshi/Monu-Yaduwanshi/output/pacman-contribution-graph.svg" />
 </p>
 
 ---
