@@ -1,8 +1,6 @@
-name: Generate Snake
+name: Generate Snake + Pacman
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,12 +11,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate Snake + Pacman
+        uses: Platane/snk@v3
         with:
           github_user_name: Monu-Yaduwanshi
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/pacman-contribution-graph.svg
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
