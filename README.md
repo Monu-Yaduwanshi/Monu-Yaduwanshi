@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007F50,100:00C9A7&height=200&section=header&text=Monu%20Yaduwanshi&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
+
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <p align="center">
@@ -69,13 +70,12 @@
 
 ---
 
-### 🤖 Climate Impact Financial Predictor (AI Project)
+### 🤖 Climate Impact Financial Predictor
 
 ✔ AI-powered climate risk forecasting 🌎
 ✔ Revenue loss & disruption prediction 📉
 ✔ Insurance & cost estimation 🏦
 ✔ Built with **TensorFlow Lite + Jetpack Compose**
-✔ Runs efficiently on mobile devices ⚡
 
 ---
 
@@ -113,11 +113,7 @@
 ## 🐍 Contribution Animations
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Monu-Yaduwanshi/Monu-Yaduwanshi/output/snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Monu-Yaduwanshi/Monu-Yaduwanshi/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -125,7 +121,7 @@
 ## 🎮 Pacman Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg"/>
+  <img src="https://raw.githubusercontent.com/Monu-Yaduwanshi/Monu-Yaduwanshi/output/pacman-contribution-graph.svg" />
 </p>
 
 ---
