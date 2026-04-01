@@ -24,6 +24,9 @@
 
 ---
 
+
+
+<!--
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -107,7 +110,7 @@ Visual Studio Code, IntelliJ IDEA
 Jira, Power BI, Cisco, Gradle,
 Unity, Unreal Engine, Xbox, Portfolio Tools
 ```
-
+-->
 ---
 
 ## 🚀 Advanced Tech & Tools
