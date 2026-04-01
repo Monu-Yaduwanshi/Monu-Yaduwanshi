@@ -16,6 +16,9 @@
 ---
 
 ## ✨ About Me
+
+## Hi there 👋
+
 I'm **Monu Yaduwanshi**, a dedicated Computer Science and Engineering student passionate about building software solutions for real-world challenges.
 
 🔹 Passionate **Android Developer** building real-world impactful apps
@@ -23,9 +26,6 @@ I'm **Monu Yaduwanshi**, a dedicated Computer Science and Engineering student pa
 🔹 Exploring **AI-powered mobile applications**
 🔹 Love solving real-world problems through technology 🌍
 
-## Hi there 👋
-
-I'm **Monu Yaduwanshi**, a dedicated Computer Science and Engineering student passionate about building software solutions for real-world challenges.
 
 - 🌱 I’m currently learning ... B.Tech in Computer Science and Engineering (CSE)
 - 👯 I’m looking to collaborate on ... Android development, Java projects, and web development using HTML, CSS, JavaScript, and Java Servlets
