@@ -246,7 +246,7 @@ Unity, Unreal Engine, Xbox, Portfolio Tools
 ---
 
 ---
-<!--
+
 ## 🚀 Advanced Tech & Tools
 
 <div align="center">
@@ -256,7 +256,7 @@ Unity, Unreal Engine, Xbox, Portfolio Tools
 </div>
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 ### 🛡️ Raksha Setu – Smart Society Visitor Management
