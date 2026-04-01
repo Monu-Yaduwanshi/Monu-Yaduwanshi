@@ -34,18 +34,88 @@
 
 ---
 
+## 💻 Tech Stack (Detailed)
+
+### 🧠 LANGUAGES
+
+```bash
+C, C++, Java, Kotlin, Python, JavaScript, HTML5
+```
+
+### ☁️ Hosting / SaaS
+
+```bash
+Firebase, Heroku, Vercel, Render, Supabase
+```
+
+### ⚙️ FRAMEWORKS, PLATFORMS & LIBRARIES
+
+```bash
+Angular, Angular.js, React, React Native, Flutter,
+Node.js, Express.js, NestJS,
+Spring, Flask, FastAPI
+```
+
+### 🖥️ SERVERS
+
+```bash
+Apache, Apache Tomcat
+```
+
+### 🗄️ DATABASES / ORM
+
+```bash
+MongoDB, MySQL, SQLite, Hibernate
+```
+
+### 🎨 DESIGN
+
+```bash
+Adobe, Adobe Lightroom, Adobe Acrobat Reader, Canva
+```
+
+### 🤖 ML / DL
+
+```bash
+TensorFlow, PyTorch, Keras, Scikit-learn,
+NumPy, Pandas, Matplotlib, Plotly
+```
+
+### 🔁 CI/CD & VCS
+
+```bash
+Git, GitHub, GitLab
+```
+
+### 🧪 TESTING
+
+```bash
+Selenium, Postman
+```
+
+### 🛠️ IDE
+
+```bash
+Android Studio, Eclipse, Code::Blocks,
+Arduino IDE, Jupyter Notebook,
+Visual Studio Code, IntelliJ IDEA
+```
+
+### ⚡ OTHER
+
+```bash
+Jira, Power BI, Cisco, Gradle,
+Unity, Unreal Engine, Xbox, Portfolio Tools
+```
+
+---
+
 ## 🚀 Advanced Tech & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="50"/>
   <img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
-  <!-- <img src="https://skillicons.dev/icons?i=graphql" height="50"/>
-  <img src="https://skillicons.dev/icons?i=go" height="50"/>
-  <img src="https://skillicons.dev/icons?i=rust" height="50"/>
-  <img src="https://skillicons.dev/icons?i=nestjs" height="50"/>
-  <img src="https://skillicons.dev/icons?i=py" height="50"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="50"/> -->
 </div>
 
 ---
@@ -109,11 +179,13 @@
 </p>
 
 ---
+
 ## 🐍 Contribution Animations
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Monu-Yaduwanshi/Monu-Yaduwanshi/output/github-contribution-grid-snake.svg" />
 </p>
+
 ---
 
 ## 🎮 Contribution Activity
@@ -138,7 +210,7 @@
   <a href="https://monuyaduwanshiportfolio.web.app">
     <img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/monu-yaduwanshi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:Monuyaduvanshi2003@gmail.com">
@@ -148,32 +220,26 @@
 
 ---
 
-## 📱 Social & Platforms
+## 🌐 Socials
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&style=for-the-badge"/>
-</div>
-
----
-
-## ⚡ Developer Zone
-
-🚀 Building **real-world Android apps**
-📱 Exploring **Jetpack Compose & scalable architectures**
-🤖 Integrating **AI into mobile applications**
-🔥 Focused on **performance, UI & user experience**
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord\&logoColor=white)](https://discord.gg/unknown)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/Monu.Yaduwanshi.17/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/unknown)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/monu-yaduwanshi/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest\&logoColor=white)](https://pinterest.com/unknown)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit\&logoColor=white)](https://reddit.com/user/unknown)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/unknown)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://youtube.com/@Mr-Monu-Yaduwanshi)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:monuyaduvanshi2003@gmail.com)
 
 ---
 
-## 🎯 Current Goals
+## 💰 You can help me by Donating
 
-✔ Master **Advanced Android Architecture**
-✔ Build **AI-powered mobile apps**
-✔ Create **production-level projects**
-✔ Crack top product-based companies 💼
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=black)](https://buymeacoffee.com/monuyaduwanshi2003@axl)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge\&logo=paypal\&logoColor=white)](https://paypal.me/monuyaduwanshi2003@axl)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge\&logo=patreon\&logoColor=white)](https://patreon.com/7828454802@yapl)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/monuyaduvanshi2003@okaxis)
 
 ---
 
