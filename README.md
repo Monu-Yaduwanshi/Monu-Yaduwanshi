@@ -246,7 +246,7 @@ Unity, Unreal Engine, Xbox, Portfolio Tools
 ---
 
 ---
-
+<!--
 ## 🚀 Advanced Tech & Tools
 
 <div align="center">
@@ -283,9 +283,102 @@ Unity, Unreal Engine, Xbox, Portfolio Tools
 ✔ Revenue loss & disruption prediction 📉
 ✔ Insurance & cost estimation 🏦
 ✔ Built with **TensorFlow Lite + Jetpack Compose**
+-->
+---
+## 🚀 Featured Projects
+
+### 🛡️ Raksha Setu – Smart Society Visitor Management
+✔ Visitor photo verification system 📸  
+✔ Real-time approval (Allow / Deny / Leave at Gate)  
+✔ Multi-role system (Resident, Watchman, Secretary)  
+✔ Firebase + Cloudinary integration  
 
 ---
 
+### 🚑 Jeevan Rakshak – Emergency Assistance App
+✔ One-tap SOS with live location 📍  
+✔ Ambulance & hospital tracking 🚑  
+✔ Generic medicine platform 💊  
+✔ Firebase + Google Maps integration  
+
+---
+
+### 🤖 Climate Impact Financial Predictor
+✔ AI-powered climate risk forecasting 🌎  
+✔ Revenue loss & disruption prediction 📉  
+✔ Insurance & cost estimation 🏦  
+✔ Built with **TensorFlow Lite + Jetpack Compose**  
+
+---
+
+### 🌾 CropBazaar – Smart Contract Farming Platform
+📜 **Overview**  
+CropBazaar connects farmers directly with buyers for secure and efficient **contract farming**, ensuring stable markets and fair pricing. 🤝💰  
+
+✔ Pre-harvest contract agreements 🌽  
+✔ Transparent farmer-buyer communication 💬  
+✔ Secure & timely payments 💳  
+✔ Real-time analytics & demand forecasting 📊  
+✔ Mobile-friendly for rural accessibility 📱  
+
+🛠 Built with **Kotlin, Jetpack Compose, Firebase**
+
+---
+
+### 🚨 Raksha Astra – Women Safety App
+📜 **Overview**  
+A powerful women safety application providing **instant emergency response, live tracking, and community alerts**.  
+
+✔ One-tap SOS alert system 🔴  
+✔ Live GPS tracking 📍  
+✔ Red zone & safe route detection 🛣️  
+✔ Evidence upload (Photo/Video) ☁️  
+✔ Offline emergency support ⚡  
+✔ Community safety network 👥  
+
+🛠 Built with **Firebase, Cloudinary, Google Maps, MVVM**
+
+---
+
+### 📖 Climate Impact Financial Predictor (Detailed)
+📜 **Overview**  
+An AI-powered mobile app helping businesses predict **financial risks caused by climate change**.  
+
+✔ Revenue loss forecasting 📉  
+✔ Insurance & risk prediction 🏦  
+✔ Cost estimation for adaptation 🏗️  
+✔ Personalized mitigation strategies 🌱  
+
+🛠 Built with **TensorFlow Lite, Jetpack Compose, Python**
+
+---
+
+### 💊 Jeevan Rakshak (Detailed)
+📜 **Overview**  
+A unified emergency platform combining **SOS, ambulance services, and affordable medicines**.  
+
+✔ Emergency SOS with live tracking 🆘  
+✔ Ambulance & hospital locator 🚑  
+✔ Generic medicine marketplace 💊  
+✔ Role-based system (Patient, Doctor, Driver) 👥  
+
+🛠 Built with **Firebase, Google Maps API**
+
+---
+
+### 🏢 Raksha Setu (Detailed)
+📜 **Overview**  
+A digital visitor management system replacing manual registers with **secure real-time approval & tracking**.  
+
+✔ Visitor photo verification 📸  
+✔ Instant resident approval system ✅  
+✔ Visitor history & analytics 📊  
+✔ Society-wide notifications 🔔  
+✔ Multi-role access control 👑  
+
+🛠 Built with **Firebase, Cloudinary, Jetpack Compose**
+
+---
 ## 🐱 Developer Mode
 
 ```bash
