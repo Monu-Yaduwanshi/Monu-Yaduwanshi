@@ -16,12 +16,26 @@
 ---
 
 ## ✨ About Me
+I'm **Monu Yaduwanshi**, a dedicated Computer Science and Engineering student passionate about building software solutions for real-world challenges.
 
 🔹 Passionate **Android Developer** building real-world impactful apps
 🔹 Skilled in **Kotlin, Jetpack Compose, Firebase & MVVM Architecture**
 🔹 Exploring **AI-powered mobile applications**
 🔹 Love solving real-world problems through technology 🌍
 
+## Hi there 👋
+
+I'm **Monu Yaduwanshi**, a dedicated Computer Science and Engineering student passionate about building software solutions for real-world challenges.
+
+- 🌱 I’m currently learning ... B.Tech in Computer Science and Engineering (CSE)
+- 👯 I’m looking to collaborate on ... Android development, Java projects, and web development using HTML, CSS, JavaScript, and Java Servlets
+- 🤔 I’m looking for help with ... MySQL, Firebase integration, and advanced Android features like Jetpack Compose and MVVM architecture
+- 💬 Ask me about ... Java, Android development, frontend web development, MySQL, and Firebase
+- 📫 How to reach me: ... [Monuyaduvanshi2003@gmail.com](mailto:Monuyaduvanshi2003@gmail.com)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I love learning new technologies and building projects that solve real-world problems!
+
+- I 💻 love developing applications that integrate both web and mobile technologies to solve real-world challenges. Check out my projects and feel free to connect! 🚀
 ---
 
 
@@ -333,12 +347,12 @@ Unity, Unreal Engine, Xbox, Portfolio Tools
   <a href="https://monuyaduwanshiportfolio.web.app">
     <img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/monu-yaduwanshi">
+ <!-- <a href="https://linkedin.com/in/monu-yaduwanshi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:Monuyaduvanshi2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  </a> -->
 </div>
 
 ---
